@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio Marin Lucero</h1>
 <h3 align="center">A passionate Web developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Passenger Counter](https://github.com/MauriML/JavaScript-Project.git)
+- 🔭 I’m currently working on [Passenger Counter](https://github.com/MauriML/passenger-counter.git)
 
 - 📫 How to reach me **mauriciomarinlucero@gmail.com**
 
